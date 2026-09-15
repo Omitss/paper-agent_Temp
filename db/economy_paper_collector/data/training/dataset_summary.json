@@ -1,0 +1,34 @@
+{
+  "source_papers": 181,
+  "train_papers": 154,
+  "validation_papers": 27,
+  "train_samples": 3686,
+  "validation_samples": 831,
+  "total_samples": 4517,
+  "validation_ratio": 0.15,
+  "random_seed": 42,
+  "min_sample_chars": 500,
+  "target_sample_chars": 2500,
+  "max_sample_chars": 3500,
+  "average_sample_chars": 1624.64,
+  "actual_min_chars": 500,
+  "actual_max_chars": 3477,
+  "paper_leakage_count": 0,
+  "paper_leakage": [],
+  "empty_sample_count": 0,
+  "too_short_sample_count": 0,
+  "papers_without_samples": [],
+  "section_counts": {
+    "results": 1547,
+    "introduction": 415,
+    "methodology": 796,
+    "conclusion": 216,
+    "literature_review": 953,
+    "discussion": 588,
+    "full_text": 2
+  },
+  "source_mode_counts": {
+    "SECTION": 4515,
+    "FALLBACK_FULL_TEXT": 2
+  }
+}

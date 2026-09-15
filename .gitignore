@@ -95,3 +95,30 @@ temp/
 .DS_Store
 Thumbs.db
 desktop.ini
+# Large intermediate KCI harvest
+kci_oai_all.jsonl
+
+# ==========================================
+# Economy paper raw / collected data
+# ==========================================
+
+# Original PDF files
+db/economy_paper_collector/data/pdf/
+*.pdf
+
+# Raw extracted text / OCR
+db/economy_paper_collector/data/text/
+db/economy_paper_collector/data/text_ocr_recovered/
+
+# Raw metadata collected from KCI/OAI
+db/economy_paper_collector/data/metadata/kci_oai_all.jsonl
+db/economy_paper_collector/data/metadata/kci_oai_*.jsonl
+
+# Archives
+*.zip
+*.7z
+*.rar
+
+# Economy paper original datasets
+db/economy_paper_collector/data/pdf/
+db/economy_paper_collector/data/metadata/

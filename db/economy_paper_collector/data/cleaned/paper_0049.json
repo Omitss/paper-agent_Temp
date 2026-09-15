@@ -1,0 +1,46 @@
+{
+  "paper_id": "paper_0049",
+  "title": "AI 수용성이 조직구성원의 디지털 전환 준비도에 미치는 영향: 중소기업을 중심으로",
+  "metadata": {
+    "authors": [
+      "장달님",
+      "주형근"
+    ],
+    "year": null,
+    "doi": null,
+    "journal": null,
+    "document_type": "journal_article"
+  },
+  "quality": {
+    "status": "VERY_SHORT",
+    "reasons": [
+      "cleaned_text_under_3000_chars"
+    ],
+    "raw_chars": 3322,
+    "cleaned_chars": 2633,
+    "section_count": 1,
+    "detected_sections": [
+      "discussion"
+    ],
+    "removed_repeated_lines": 5,
+    "text_source": "PYMUPDF"
+  },
+  "preprocessing": {
+    "repeated_line_candidates": [],
+    "source_text_file": "data\\text\\paper_0049.txt",
+    "text_source": "PYMUPDF"
+  },
+  "full_text": "AI 시대, 디지털통상 규범과 e비즈니스 컨설팅의 역할\n\n장달님1, 주형근2 1한성대학교 지식서비스&컨설팅 대학원 석사과정 *2한성대학교 지식서비스&컨설팅 대학원 교수, 교신저자\n\n국문초록 최근 4차 산업혁명의 가속화와 함     medium-sized  enterprises  (SMEs).Grounded  in  the Technology  Acceptance  Model  (TAM)  and  the 께 AI는 기업의 핵심 경쟁력을 형성하는 주요                                                          Technology–Organization–Environment       (TOE) 기술로 자리매김하고 있으며, 이에 따른 디지털     framework,  this study conceptualizes AI acceptance 전환의 성공 여부는 단순히 기술을 도입했는가      through four key dimensions: perceived usefulness, 의 문제를 넘어, 조직 구성원이 변화를 어떻게      perceived ease  of  use,  trust, and  social  influence.\nThese  factors are then analyzed  in  relation  to the  인식하고 수용하는가에 달려 있다. 본 연구는 subcomponents of  digital transformation readiness—  중소기업 내 조직구성원을 대상으로 인공지능 namely      digital    competency,     organizational (AI) 기술에 대한 수용성이 디지털 전환을 준비                                                                   adaptability  to  change,  and  digital  culture.Digital 하는 조직의 역량에 어떠한 영향을 미치는지를      transformation readiness  is not limited  to technical\n이론적으로 고찰하였다.                                     infrastructure    but     is    closely    related    to\n본 연구는 기술수용모델(TAM)과 기술–조직–환경      organizational members’  digital  skills,  the  capacity to   accept   change,   and   the   maturity   of   a   (TOE) 프레임워크를 기반으로 AI 수용성을 지 digital-oriented  organizational  culture.  Especially  in  각된 유용성, 사용 용이성, 신뢰, 사회적 영향의 SMEs, employees’  attitude  shifts may  serve  as  a 네 가지 주요 요인으로 구성하였으며 이러한 요                                                               foundational    catalyst    for     initiating     digital 인이 디지털 전환 준비도의 하위 요소인 디지털      transformation.\n역량, 조직의 변화 수용성, 디지털 문화에 어떠 한 영향을 미치는지를 문헌 중심으로 분석하였 주제어 : 인공지능 수용성, 디지털 전환 준비도,  다. 디지털 전환 준비도는 구성원의 디지털 역                             중소기업, 조직 구성원, 기술수용모델(TAM), 량뿐 아니라, 변화에 대한 조직 차원의 수용성,   기술-조직-환경(TOE) 프레임워크 디지털 기반 조직문화의 성숙도와도 밀접한 관 련이 있으며 특히 중소기업에서는 구성원의 태 도 변화가 디지털 전환을 시작하는 출발점이 될 수 있다.\n\nWith  the  acceleration  of  the  Fourth  Industrial Revolution,  artificial  intelligence (AI) has emerged as a core technology shaping the competitive edge of  modern   enterprises.  The  success  of   digital transformation  now  depends  not  only  on   the adoption  of  technology   itself  but  also  on how organizational members  perceive  and  accept  such changes.  This  study   theoretically  examines  the extent   to  which  AI  acceptance   influences  an organization’s  readiness  for  digital  transformation, focusing   on   employees   within   small   and\n\nII. 별첨게재\n\nAI 시대, 디지털통상 규범과 e비즈니스 컨설팅의 역할\n\nII. 별첨게재\n\nᄅ\n\nAI 시대, 디지털통상 규범과 e비즈니스 컨설팅의 역할",
+  "sections": [
+    {
+      "section": "front_matter",
+      "title": null,
+      "content": "AI 시대, 디지털통상 규범과 e비즈니스 컨설팅의 역할\n\n장달님1, 주형근2 1한성대학교 지식서비스&컨설팅 대학원 석사과정 *2한성대학교 지식서비스&컨설팅 대학원 교수, 교신저자\n\n국문초록 최근 4차 산업혁명의 가속화와 함     medium-sized  enterprises  (SMEs).Grounded  in  the Technology  Acceptance  Model  (TAM)  and  the 께 AI는 기업의 핵심 경쟁력을 형성하는 주요                                                          Technology–Organization–Environment       (TOE) 기술로 자리매김하고 있으며, 이에 따른 디지털     framework,  this study conceptualizes AI acceptance 전환의 성공 여부는 단순히 기술을 도입했는가      through four key dimensions: perceived usefulness, 의 문제를 넘어, 조직 구성원이 변화를 어떻게      perceived ease  of  use,  trust, and  social  influence.\nThese  factors are then analyzed  in  relation  to the  인식하고 수용하는가에 달려 있다. 본 연구는 subcomponents of  digital transformation readiness—  중소기업 내 조직구성원을 대상으로 인공지능 namely      digital    competency,     organizational (AI) 기술에 대한 수용성이 디지털 전환을 준비                                                                   adaptability  to  change,  and  digital  culture.Digital 하는 조직의 역량에 어떠한 영향을 미치는지를      transformation readiness  is not limited  to technical"
+    },
+    {
+      "section": "discussion",
+      "title": "이론적으로 고찰하였다.                                     infrastructure    but     is    closely    related    to",
+      "content": "본 연구는 기술수용모델(TAM)과 기술–조직–환경      organizational members’  digital  skills,  the  capacity to   accept   change,   and   the   maturity   of   a   (TOE) 프레임워크를 기반으로 AI 수용성을 지 digital-oriented  organizational  culture.  Especially  in  각된 유용성, 사용 용이성, 신뢰, 사회적 영향의 SMEs, employees’  attitude  shifts may  serve  as  a 네 가지 주요 요인으로 구성하였으며 이러한 요                                                               foundational    catalyst    for     initiating     digital 인이 디지털 전환 준비도의 하위 요소인 디지털      transformation.\n역량, 조직의 변화 수용성, 디지털 문화에 어떠 한 영향을 미치는지를 문헌 중심으로 분석하였 주제어 : 인공지능 수용성, 디지털 전환 준비도,  다. 디지털 전환 준비도는 구성원의 디지털 역                             중소기업, 조직 구성원, 기술수용모델(TAM), 량뿐 아니라, 변화에 대한 조직 차원의 수용성,   기술-조직-환경(TOE) 프레임워크 디지털 기반 조직문화의 성숙도와도 밀접한 관 련이 있으며 특히 중소기업에서는 구성원의 태 도 변화가 디지털 전환을 시작하는 출발점이 될 수 있다.\n\nWith  the  acceleration  of  the  Fourth  Industrial Revolution,  artificial  intelligence (AI) has emerged as a core technology shaping the competitive edge of  modern   enterprises.  The  success  of   digital transformation  now  depends  not  only  on   the adoption  of  technology   itself  but  also  on how organizational members  perceive  and  accept  such changes.  This  study   theoretically  examines  the extent   to  which  AI  acceptance   influences  an organization’s  readiness  for  digital  transformation, focusing   on   employees   within   small   and\n\nII. 별첨게재\n\nAI 시대, 디지털통상 규범과 e비즈니스 컨설팅의 역할\n\nII. 별첨게재\n\nᄅ\n\nAI 시대, 디지털통상 규범과 e비즈니스 컨설팅의 역할"
+    }
+  ]
+}
