@@ -1,0 +1,97 @@
+# =========================
+# Environment / Secrets
+# =========================
+.env
+.env.*
+!.env.example
+
+*.pem
+*.key
+*.p12
+*.pfx
+
+# =========================
+# Python
+# =========================
+.venv/
+venv/
+env/
+
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# =========================
+# PyCharm / IntelliJ
+# =========================
+.idea/
+*.iml
+
+# =========================
+# VS Code
+# =========================
+.vscode/
+
+# =========================
+# React / Node
+# =========================
+node_modules/
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# =========================
+# ML Models / Checkpoints
+# =========================
+models/
+checkpoints/
+
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+*.onnx
+
+# =========================
+# Large / Raw Data
+# =========================
+data/pdf/
+data/raw/
+data/text/
+data/text_ocr_recovered/
+data/chunks/
+data/embeddings/
+
+*.pdf
+*.zip
+*.7z
+*.rar
+
+# =========================
+# Local DB
+# =========================
+*.db
+*.sqlite
+*.sqlite3
+
+# =========================
+# Cache / Logs
+# =========================
+.cache/
+logs/
+*.log
+tmp/
+temp/
+
+# =========================
+# OS
+# =========================
+.DS_Store
+Thumbs.db
+desktop.ini
