@@ -1,0 +1,292 @@
+{
+  "total": 211,
+  "status_counts": {
+    "OK": 196,
+    "CHECK": 10,
+    "REVIEW": 4,
+    "OCR_CANDIDATE": 1
+  },
+  "suspicious_count": 15,
+  "suspicious_papers": [
+    {
+      "paper_id": "paper_0196",
+      "title": "중소기업 스마트공장 보급확산",
+      "source_filename": "중소기업_스마트공장_보급확산.pdf",
+      "page_count": 20,
+      "original_extracted_chars": 5769,
+      "cleaned_chars": 1141,
+      "extracted_chars_per_page": 288.45,
+      "cleaned_chars_per_page": 57.05,
+      "removed_repeated_lines": 229,
+      "korean_ratio_percent": 50.99,
+      "preprocess_status": "VERY_SHORT",
+      "text_source": "PYMUPDF",
+      "status": "OCR_CANDIDATE",
+      "signals": [
+        "VERY_LOW_CLEANED_TEXT",
+        "VERY_LOW_TEXT_PER_PAGE",
+        "LOW_RAW_EXTRACTION_PER_PAGE",
+        "HIGH_REPEATED_LINES",
+        "PREPROCESS_VERY_SHORT"
+      ]
+    },
+    {
+      "paper_id": "paper_0193",
+      "title": "중소기업 제조AI 도입의 조직적 저항 요인 분석: 사회기술 시스템 관점으로",
+      "source_filename": "중소기업 제조AI 도입의 조직적 저항 요인 분석 사회기술 시스템 관점으로.pdf.pdf",
+      "page_count": 6,
+      "original_extracted_chars": 3611,
+      "cleaned_chars": 1939,
+      "extracted_chars_per_page": 601.83,
+      "cleaned_chars_per_page": 323.17,
+      "removed_repeated_lines": 6,
+      "korean_ratio_percent": 86.79,
+      "preprocess_status": "VERY_SHORT",
+      "text_source": "PYMUPDF",
+      "status": "REVIEW",
+      "signals": [
+        "VERY_LOW_CLEANED_TEXT",
+        "LOW_TEXT_PER_PAGE",
+        "PREPROCESS_VERY_SHORT"
+      ]
+    },
+    {
+      "paper_id": "paper_0049",
+      "title": "AI 수용성이 조직구성원의 디지털 전환 준비도에 미치는 영향: 중소기업을 중심으로",
+      "source_filename": "AI 수용성이 조직구성원의 디지털 전환 준비도에 미치는 영향 중소기업을 중심으로.pdf.pdf",
+      "page_count": 5,
+      "original_extracted_chars": 3322,
+      "cleaned_chars": 2171,
+      "extracted_chars_per_page": 664.4,
+      "cleaned_chars_per_page": 434.2,
+      "removed_repeated_lines": 5,
+      "korean_ratio_percent": 30.62,
+      "preprocess_status": "VERY_SHORT",
+      "text_source": "PYMUPDF",
+      "status": "REVIEW",
+      "signals": [
+        "VERY_LOW_CLEANED_TEXT",
+        "LOW_TEXT_PER_PAGE",
+        "PREPROCESS_VERY_SHORT"
+      ]
+    },
+    {
+      "paper_id": "paper_0162",
+      "title": "비대면⦁디지털 기술을 활용한 중소기업 정책자금 전 프로세스 혁신",
+      "source_filename": "비대면ㆍ디지털 기술을 활용한 중소기업 정책자금 전 프로세스 혁신.pdf.pdf",
+      "page_count": 1,
+      "original_extracted_chars": 1391,
+      "cleaned_chars": 1067,
+      "extracted_chars_per_page": 1391.0,
+      "cleaned_chars_per_page": 1067.0,
+      "removed_repeated_lines": 1,
+      "korean_ratio_percent": 88.47,
+      "preprocess_status": "VERY_SHORT",
+      "text_source": "PYMUPDF",
+      "status": "REVIEW",
+      "signals": [
+        "VERY_LOW_CLEANED_TEXT",
+        "PREPROCESS_VERY_SHORT"
+      ]
+    },
+    {
+      "paper_id": "paper_0175",
+      "title": "스마트공장이 중소기업 혁신활동과 경영성과 견인",
+      "source_filename": "스마트공장이 중소기업 혁신활동과 경영성과 견인 중기중앙회, 상생형 스마트공장 정책 효과 분석.pdf.pdf",
+      "page_count": 1,
+      "original_extracted_chars": 2396,
+      "cleaned_chars": 1508,
+      "extracted_chars_per_page": 2396.0,
+      "cleaned_chars_per_page": 1508.0,
+      "removed_repeated_lines": 1,
+      "korean_ratio_percent": 75.24,
+      "preprocess_status": "VERY_SHORT",
+      "text_source": "PYMUPDF",
+      "status": "REVIEW",
+      "signals": [
+        "VERY_LOW_CLEANED_TEXT",
+        "PREPROCESS_VERY_SHORT"
+      ]
+    },
+    {
+      "paper_id": "paper_0190",
+      "title": "중소기업 디지털 전환을 위한 스마트서비스 개방형 혁신 네트워크 구축 및 사례 연구",
+      "source_filename": "중소기업 디지털 전환을 위한 스마트서비스 개방형 혁신 네트워크 구축 및 사례 연구.pdf.pdf",
+      "page_count": 6,
+      "original_extracted_chars": 362,
+      "cleaned_chars": 4941,
+      "extracted_chars_per_page": 60.33,
+      "cleaned_chars_per_page": 823.5,
+      "removed_repeated_lines": 5,
+      "korean_ratio_percent": 47.88,
+      "preprocess_status": "SECTION_FAILED",
+      "text_source": "OCR_RECOVERED",
+      "status": "CHECK",
+      "signals": [
+        "LOW_RAW_EXTRACTION_PER_PAGE"
+      ]
+    },
+    {
+      "paper_id": "paper_0045",
+      "title": "스마트공장, 중소기업 성장 발판… 삼성과 상생 모델로 만족도 93.6%",
+      "source_filename": "[상생형 스마트공장 구축사업 의견조사 ] 스마트공장, 중소기업 성장 발판… 삼성과 상생 모델로 만족도 93.6%.pdf.pdf",
+      "page_count": 2,
+      "original_extracted_chars": 5332,
+      "cleaned_chars": 2294,
+      "extracted_chars_per_page": 2666.0,
+      "cleaned_chars_per_page": 1147.0,
+      "removed_repeated_lines": 1,
+      "korean_ratio_percent": 73.1,
+      "preprocess_status": "SECTION_FAILED",
+      "text_source": "PYMUPDF",
+      "status": "CHECK",
+      "signals": [
+        "VERY_LOW_CLEANED_TEXT"
+      ]
+    },
+    {
+      "paper_id": "paper_0178",
+      "title": "인공지능 기법을 이용한 중소기업 부도예측에 있어서 현금흐름변수의 유용성 검증",
+      "source_filename": "인공지능 기법을 이용한 중소기업 부도예측에 있어서 현금흐름변수의 유용성 검증.pdf.pdf",
+      "page_count": 22,
+      "original_extracted_chars": 1331,
+      "cleaned_chars": 27721,
+      "extracted_chars_per_page": 60.5,
+      "cleaned_chars_per_page": 1260.05,
+      "removed_repeated_lines": 5,
+      "korean_ratio_percent": 56.47,
+      "preprocess_status": "OK",
+      "text_source": "OCR_RECOVERED",
+      "status": "CHECK",
+      "signals": [
+        "LOW_RAW_EXTRACTION_PER_PAGE"
+      ]
+    },
+    {
+      "paper_id": "paper_0157",
+      "title": "디지털시대 중소기업의 선도화 전략 - 학술발표 및 토론 제 1 분과 발표장 중소기업의 제휴는 기업가치에 영향을 미치는가",
+      "source_filename": "디지털시대 중소기업의 선도화 전략 - 학술발표 및 토론  제 1 분과 발표장  중소기업의 제휴는 기업가치에 영향을 미치는가 .pdf",
+      "page_count": 14,
+      "original_extracted_chars": 296,
+      "cleaned_chars": 17682,
+      "extracted_chars_per_page": 21.14,
+      "cleaned_chars_per_page": 1263.0,
+      "removed_repeated_lines": 11,
+      "korean_ratio_percent": 54.66,
+      "preprocess_status": "OK",
+      "text_source": "OCR_RECOVERED",
+      "status": "CHECK",
+      "signals": [
+        "LOW_RAW_EXTRACTION_PER_PAGE"
+      ]
+    },
+    {
+      "paper_id": "paper_0208",
+      "title": "중소기업의디지털경영전략에관한연구",
+      "source_filename": "중소기업의디지털경영전략에관한연구.pdf",
+      "page_count": 10,
+      "original_extracted_chars": 208,
+      "cleaned_chars": 13997,
+      "extracted_chars_per_page": 20.8,
+      "cleaned_chars_per_page": 1399.7,
+      "removed_repeated_lines": 0,
+      "korean_ratio_percent": 73.08,
+      "preprocess_status": "OK",
+      "text_source": "OCR_RECOVERED",
+      "status": "CHECK",
+      "signals": [
+        "LOW_RAW_EXTRACTION_PER_PAGE"
+      ]
+    },
+    {
+      "paper_id": "paper_0174",
+      "title": "중소 제조기업 78.5%, ‘AI 도입 필요’ 공감",
+      "source_filename": "스마트공장에서 AI로 진화 중… 중소 제조기업 78.5%, ‘AI 도입 필요’ 공감.pdf.pdf",
+      "page_count": 2,
+      "original_extracted_chars": 6472,
+      "cleaned_chars": 2910,
+      "extracted_chars_per_page": 3236.0,
+      "cleaned_chars_per_page": 1455.0,
+      "removed_repeated_lines": 2,
+      "korean_ratio_percent": 72.7,
+      "preprocess_status": "SECTION_FAILED",
+      "text_source": "PYMUPDF",
+      "status": "CHECK",
+      "signals": [
+        "VERY_LOW_CLEANED_TEXT"
+      ]
+    },
+    {
+      "paper_id": "paper_0203",
+      "title": "중소기업의 디지털 역량과 생성형 AI 활용이 기업성과에 미치는 영향에 관한 연구: CEO의 혁신역량을 조절변수로",
+      "source_filename": "중소기업의 디지털 역량과 생성형 AI 활용이 기업성과에 미치는 영향에 관한 연구 CEO의 혁신역량을 조절변수로.pdf.pdf",
+      "page_count": 6,
+      "original_extracted_chars": 565,
+      "cleaned_chars": 10132,
+      "extracted_chars_per_page": 94.17,
+      "cleaned_chars_per_page": 1688.67,
+      "removed_repeated_lines": 6,
+      "korean_ratio_percent": 59.33,
+      "preprocess_status": "OK",
+      "text_source": "OCR_RECOVERED",
+      "status": "CHECK",
+      "signals": [
+        "LOW_RAW_EXTRACTION_PER_PAGE"
+      ]
+    },
+    {
+      "paper_id": "paper_0156",
+      "title": "디지털 컨텐츠 중소기업의",
+      "source_filename": "디지털_컨텐츠__중소기업의_.pdf",
+      "page_count": 7,
+      "original_extracted_chars": 1121,
+      "cleaned_chars": 13772,
+      "extracted_chars_per_page": 160.14,
+      "cleaned_chars_per_page": 1967.43,
+      "removed_repeated_lines": 4,
+      "korean_ratio_percent": 56.19,
+      "preprocess_status": "OK",
+      "text_source": "OCR_RECOVERED",
+      "status": "CHECK",
+      "signals": [
+        "LOW_RAW_EXTRACTION_PER_PAGE"
+      ]
+    },
+    {
+      "paper_id": "paper_0207",
+      "title": "중소기업의 인공지능채택과 지식공유문화가 변화수용을 통해 조직창의성에 미치는 영향 연구",
+      "source_filename": "중소기업의 인공지능채택과 지식공유문화가 변화수용을 통해 조직창의성에 미치는 영향 연구.pd.pdf",
+      "page_count": 21,
+      "original_extracted_chars": 450,
+      "cleaned_chars": 44476,
+      "extracted_chars_per_page": 21.43,
+      "cleaned_chars_per_page": 2117.9,
+      "removed_repeated_lines": 1,
+      "korean_ratio_percent": 63.86,
+      "preprocess_status": "OK",
+      "text_source": "OCR_RECOVERED",
+      "status": "CHECK",
+      "signals": [
+        "LOW_RAW_EXTRACTION_PER_PAGE"
+      ]
+    },
+    {
+      "paper_id": "paper_0169",
+      "title": "스마트공장 도입이 매출과 고용에 미치는 효과 인천지역 중소 제조기업을 중심으로",
+      "source_filename": "스마트공장 도입이 매출과 고용에 미치는 효과 인천지역 중소 제조기업을 중심으로.pdf.pdf",
+      "page_count": 14,
+      "original_extracted_chars": 296,
+      "cleaned_chars": 39313,
+      "extracted_chars_per_page": 21.14,
+      "cleaned_chars_per_page": 2808.07,
+      "removed_repeated_lines": 39,
+      "korean_ratio_percent": 34.7,
+      "preprocess_status": "OK",
+      "text_source": "OCR_RECOVERED",
+      "status": "CHECK",
+      "signals": [
+        "LOW_RAW_EXTRACTION_PER_PAGE"
+      ]
+    }
+  ]
+}

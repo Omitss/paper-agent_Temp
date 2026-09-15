@@ -95,3 +95,5 @@ temp/
 .DS_Store
 Thumbs.db
 desktop.ini
+# Large intermediate KCI harvest
+kci_oai_all.jsonl
